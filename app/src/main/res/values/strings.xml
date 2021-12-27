@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EquationSolver</string>
+    <string name="atext">Коэф. a</string>
+    <string name="btext">Коэф. b</string>
+    <string name="ctext">Коэф. c</string>
+    <string name="dtext">Коэф. d</string>
+    <string name="solve">Решить</string>
+    <string name="ax_2_bx_c_0">Корни уравения ax^2+bx+c=0</string>
+    <string name="bx_2_cx_d_0">Корни уравения bx^2+cx+d=0</string>
+    <string name="firsttxt">Введите коэффициенты уравнения</string>
+</resources>
